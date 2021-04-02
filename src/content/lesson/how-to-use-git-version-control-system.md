@@ -117,7 +117,7 @@ This will create a .git directory in the \[project\] directory.  Make sure that 
 ## Committing Changes into the Repository
 ***
 
-After you have made some changes to the files of the project, you may want to save/submit those changes into the repository.  This is called a "commit."
+After you have made some changes to the files of the project, you may want to save/submit those changes into the repository.  This is called a "commit".
 
 To create a commit, you will need to do two things:
 
